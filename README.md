@@ -9,16 +9,16 @@
 ![signup](https://media.giphy.com/media/j3PJQ9dQdb0eP08bEw/giphy.gif)
 
 ### 로그인 
-![signin](https://giphy.com/gifs/XZrsvJDWtz0MiPRdVG)
+![signin](https://media.giphy.com/media/XZrsvJDWtz0MiPRdVG/giphy.gif)
 
 ### 동영상 재생
-![videoplay](https://giphy.com/gifs/mG7KmYXeWwH6iH2F5X)
+![videoplay](https://media.giphy.com/media/mG7KmYXeWwH6iH2F5X/giphy.gif)
 
 ### 댓글 작성
-![comment](https://giphy.com/gifs/KBKBzwFpCgzkR1KX0E)
+![comment](https://media.giphy.com/media/KBKBzwFpCgzkR1KX0E/giphy.gif)
 
 ### admin page
-![admin](https://giphy.com/gifs/JrwlbiSCnmpI1GjW2M)
+![admin](https://media.giphy.com/media/JrwlbiSCnmpI1GjW2M/giphy.gif)
 
 # Front-end Skill
 react, react_hooks, antd_desgin
