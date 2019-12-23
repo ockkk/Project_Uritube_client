@@ -5,19 +5,19 @@
 
 # 앱 실행 화면
 
-###회원가입
+### 회원가입
 ![signup](https://media.giphy.com/media/j3PJQ9dQdb0eP08bEw/giphy.gif)
 
-###로그인 
+### 로그인 
 ![signin](https://giphy.com/gifs/XZrsvJDWtz0MiPRdVG)
 
-###동영상 재생
+### 동영상 재생
 ![videoplay](https://giphy.com/gifs/mG7KmYXeWwH6iH2F5X)
 
-###댓글 작성
+### 댓글 작성
 ![comment](https://giphy.com/gifs/KBKBzwFpCgzkR1KX0E)
 
-###admin page
+### admin page
 ![admin](https://giphy.com/gifs/JrwlbiSCnmpI1GjW2M)
 
 # Front-end Skill
